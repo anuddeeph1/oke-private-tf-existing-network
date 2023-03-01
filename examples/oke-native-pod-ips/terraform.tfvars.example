@@ -9,4 +9,11 @@ region = "<region>"
 
 # Compartment
 compartment_ocid = "<compartment_ocid>"
+vcn_ocid                     = "<vcn_ocid>"
+my_api_endpoint_subnet_ocid  = "<apiserver_subnet_ocid>"
+my_lb_subnet_ocid            = "<lb_subnet_ocid>"
+my_pods_nodepool_subnet_ocid = "<nodepool_subnet_ocid>"
+pods_subnet_ocid             = "<pod_cidr_subnet_ocid>"
 
+
+#service_subnet_ocid          = "service_subnet_ocid"
